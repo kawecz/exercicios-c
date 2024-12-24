@@ -17,4 +17,5 @@ int main() {
     sal = dias_trabalhados * 8 * 25;
 
     printf("Salario do mes: R$%.2f\n", sal);
+    system("pause");
 }
