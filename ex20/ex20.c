@@ -18,4 +18,5 @@ int main() {
     } else {
         printf("Numero impar\n");
     }
+    system("pause");
 }
